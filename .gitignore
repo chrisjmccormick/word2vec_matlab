@@ -1,0 +1,4 @@
+*.asv
+model/temp.py
+word2vec/temp.m
+temp.m
